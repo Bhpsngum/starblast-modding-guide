@@ -1,4 +1,4 @@
-# Docus Starter
+# Workspace
 
 Starter template for [Docus](https://docus.dev).
 
