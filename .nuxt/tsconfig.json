@@ -108,13 +108,13 @@
         "./color-mode-options.mjs"
       ],
       "#mdc-configs": [
-        "./mdc-configs.mjs"
+        "./mdc-configs"
       ],
       "#mdc-highlighter": [
-        "./mdc-highlighter.mjs"
+        "./mdc-highlighter"
       ],
       "#mdc-imports": [
-        "./mdc-imports.mjs"
+        "./mdc-imports"
       ],
       "#vue-router": [
         "../node_modules/vue-router"
@@ -123,7 +123,7 @@
         "./imports"
       ],
       "#app-manifest": [
-        "./manifest/meta/dev.json"
+        "./manifest/meta/dev"
       ],
       "@nuxt-themes/tokens/config": [
         "../node_modules/@nuxt-themes/tokens/dist/tokens.config"
@@ -183,8 +183,8 @@
     "../node_modules/@nuxtjs/plausible/dist/runtime",
     "../node_modules/@nuxtjs/color-mode/runtime",
     "../node_modules/@nuxtjs/color-mode/dist/runtime",
-    "../../sta/runtime",
-    "../../sta/dist/runtime",
+    "../../../ate/runtime",
+    "../../../ate/dist/runtime",
     "../node_modules/@nuxt-themes/tokens/runtime",
     "../node_modules/@nuxt-themes/tokens/dist/runtime",
     "../node_modules/@nuxthq/studio/runtime",
@@ -228,8 +228,8 @@
     "../node_modules/@nuxtjs/plausible/dist/runtime/server",
     "../node_modules/@nuxtjs/color-mode/runtime/server",
     "../node_modules/@nuxtjs/color-mode/dist/runtime/server",
-    "../../sta/runtime/server",
-    "../../sta/dist/runtime/server",
+    "../../../ate/runtime/server",
+    "../../../ate/dist/runtime/server",
     "../node_modules/@nuxt-themes/tokens/runtime/server",
     "../node_modules/@nuxt-themes/tokens/dist/runtime/server",
     "../node_modules/@nuxthq/studio/runtime/server",

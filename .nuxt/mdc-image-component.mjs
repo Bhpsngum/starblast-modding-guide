@@ -1,1 +1,1 @@
-export { default } from "D:/Code/starblast-modding-guide/node_modules/@nuxt-themes/elements/components/globals/NuxtImg.vue"
+export { default } from "D:/Code/aterbot/starblast-modding-guide/node_modules/@nuxt-themes/elements/components/globals/NuxtImg.vue"
