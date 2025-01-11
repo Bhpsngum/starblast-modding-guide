@@ -1,2 +1,11 @@
+node_modules
+*.iml
+.idea
+*.log*
+.vscode
 .DS_Store
-._.*
+coverage
+dist
+sw.*
+.env
+.output
